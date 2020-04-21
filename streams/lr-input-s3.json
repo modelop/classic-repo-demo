@@ -1,0 +1,1 @@
+{"Transport": {"Region": "us-east-2", "Bucket": "1-9-demo-4327773200", "AccessKeyID": "AKIAIVWQWLAZR3RD2KVQ", "SecretAccessKey": "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", "ObjectKey": "close_prices.jsons", "Type": "S3"}, "Encoding": "JSON"}

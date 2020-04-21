@@ -1,0 +1,18 @@
+{
+    "name":"three_rmses",
+    "type":"record",
+    "fields":[
+        {
+            "name":"Ridge",
+            "type":"double"
+        },
+        {
+            "name":"Lasso",
+            "type":"double"
+        },
+        {
+            "name":"XGBoost",
+            "type":"double"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"Transport":{"Type":"file","Path":"/tmp/data/customers.jsons"},"Loop":true,"Envelope":{"Type":"delimited"},"Encoding":"json"}

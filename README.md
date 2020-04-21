@@ -1,2 +1,3 @@
-# classic-repo-demo
-An example repo to allow the demonstration of a classic repo importation
+# fastscore-demo
+
+This is the README for the 1.9 demo

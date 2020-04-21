@@ -1,0 +1,1 @@
+{"Envelope": null, "Transport": {"SecretAccessKey": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY", "Type": "S3", "ObjectKey": "census-data-08-2018", "Bucket": "mydatasets2018", "AccessKeyID": "AKIAIOSFODNN7EXAMPLE"}, "Encoding": "json"}

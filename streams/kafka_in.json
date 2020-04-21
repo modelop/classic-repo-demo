@@ -1,0 +1,1 @@
+{"Transport":{"Topic":"stock","BootstrapServers":["fastscore:9092"],"Type":"kafka", "MaxWaitTime": 8388607, "Group": "FastscoreEngine"},"Encoding":"json", "SkipToRecord": "earliest"}

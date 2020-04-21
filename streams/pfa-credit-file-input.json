@@ -1,0 +1,1 @@
+{"Version": "1.2", "Envelope": "delimited", "Loop": false, "Transport": {"Path": "/data/credit_sample_input.jsons", "Type": "file"}, "Encoding": "json"}
