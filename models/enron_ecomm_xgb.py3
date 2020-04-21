@@ -37,7 +37,7 @@ def preprocess(df):
 
 # modelop.init
 def conditional_begin():
-    if 'xgboost' in sys.modules:
+    if 'xgboost_not_present' in sys.modules:
         begin()
 
 
