@@ -132,6 +132,7 @@ def metrics(datum):
     ],
     "auc": 0.9249999999999999,
     "f2_score": 0.5263157894736842,
+    "cost_per_f2_point": 1.16,
     "confusion_matrix": [
         {
             "Compliant": 75,
